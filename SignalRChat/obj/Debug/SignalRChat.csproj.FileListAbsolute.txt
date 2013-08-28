@@ -1,0 +1,16 @@
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\WebApp.dll
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\WebApp.pdb
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Owin.dll
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gferreyra\Labs\SignalR\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\gferreyra\Labs\SignalR\WebApp\obj\Debug\WebApp.dll
+C:\Users\gferreyra\Labs\SignalR\WebApp\obj\Debug\WebApp.pdb
